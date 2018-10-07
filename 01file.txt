@@ -1,4 +1,4 @@
 Change one file.
 Tech demo version.
-Add a line.
-Merge test 2 trunk.
+Merge test 2 branch.
+Merge test 3:branch add a line when pulling request.
